@@ -1,18 +1,44 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Developer Tracking Dashboard & Engineering Portfolio
 
-## Getting Started
+An interactive, hyper-minimalist tracking dashboard built to profile core engineering execution, research milestones, and open-source contributions. 
 
-First, run the development server:
+ **Live Production Deployment:** [portfolio-six-navy-sn32e25tji.vercel.app](https://portfolio-six-navy-sn32e25tji.vercel.app/)
+
+---
+
+### Technical Stack & Architecture
+
+* **Framework:** Next.js 16 (App Router) utilizing the fast Turbopack compilation engine.
+* **Styling:** Tailwind CSS v4 featuring an obsidian dark-mode ambient grid system.
+* **Animations:** Smooth, staggered viewport state management via Framer Motion.
+* **CI/CD Pipeline:** Fully automated deployment builds hosted natively on Vercel infrastructure.
+
+---
+
+### Core Engineering Footprints Featured
+
+* **The Linux Foundation (LFX Mentorship):** Distributed packet core optimization and upstream container network patches for Magma Core.
+* **NASA OSDR (Analysis Working Group):** Technical implementation blueprints for open-science WebGL 3D radiation telemetry visualizations.
+* **Cohere For AI Community:** First-author comparative LLM benchmark research accepted at the CL4Health 2026 Workshop (LREC-COLING).
+* **Network Threat Intelligence:** Transformer-based temporal anomaly detection frameworks for core enterprise systems.
+
+---
+
+### Local Development Installation
+
+To spin up an isolated mirror of this tracking platform on your local environment:
 
 ```bash
+# Clone the repository
+git clone [https://github.com/AviJxn/portfolio.git](https://github.com/AviJxn/portfolio.git)
+
+# Install package dependencies
+npm install
+
+# Initialize the hot-reloading Turbopack local engine
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+---------------
+This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
