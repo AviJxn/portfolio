@@ -7,6 +7,7 @@ import Footer from '@/components/Footer'
 export default function Home() {
   return (
     <div className="min-h-screen relative overflow-x-hidden">
+
       <div className="absolute top-[-10%] left-[-20%] w-[600px] h-[600px] rounded-full bg-blue-500/5 blur-[120px] pointer-events-none" />
       <div className="absolute bottom-[20%] right-[-10%] w-[500px] h-[500px] rounded-full bg-purple-500/5 blur-[140px] pointer-events-none" />
       
