@@ -6,7 +6,7 @@ import { ArrowUpRight, BookOpen, Layers, ChevronDown, Layers2Icon, IceCream, Und
 const projects = [
   {
     id: 1,
-    title: 'GaiaAir Platform',
+    title: 'GaiaAir',
     desc: 'An open-source AI environmental engine utilizing dynamic satellite telemetry data streams for real-time planetary health analytics and predictive environmental metrics.',
     expandedDetails: 'Engineered to map multidimensional atmospheric indicators across geo-coordinates. Built to provide open science networks with direct satellite pipeline analytics and predictive model layers.',
     tags: ['Python', 'AI/ML', 'Satellite Data', 'Open Source'],
@@ -16,7 +16,7 @@ const projects = [
   {
     id: 2,
     title: 'FoodBench-QA 2026',
-    desc: 'Co-authored research paper "Anonymized at FoodBench-QA 2026: The Cake Makes the Ingredients," accepted for poster presentation at the CL4Health workshop (LREC-COLING 2026).',
+    desc: 'First-authored research paper "Anonymized at FoodBench-QA 2026: The Cake Makes the Ingredients," accepted for poster presentation at the CL4Health workshop (LREC-COLING 2026).',
     expandedDetails: 'Explores domain-specific NLP modeling logic and boundaries within open medical and context validation datasets.',
     tags: ['Research', 'NLP', 'Publication'],
     gridSpan: 'md:col-span-1',
