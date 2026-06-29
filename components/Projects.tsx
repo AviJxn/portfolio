@@ -18,7 +18,7 @@ const projects = [
     title: 'FoodBench-QA 2026',
     desc: 'First-authored research paper "Anonymized at FoodBench-QA 2026: The Cake Makes the Ingredients," accepted for poster presentation at the CL4Health workshop (LREC-COLING 2026).',
     expandedDetails: 'Explores domain-specific NLP modeling logic and boundaries within open medical and context validation datasets.',
-    tags: ['Research', 'NLP', 'Publication'],
+    tags: ['Research', 'NLP', 'Publication', 'LREC'],
     gridSpan: 'md:col-span-1',
     icon: BookOpen
   },
